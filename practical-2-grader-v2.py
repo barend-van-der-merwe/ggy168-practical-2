@@ -6,7 +6,7 @@ from PIL import Image
 import io
 import re
 
-st.title("Practical 1 - Coordinate Conversion")
+st.title("Practical 2 - Working With Coordinates")
 st.info("""
 INSTRUCTIONS
 - Select the grades csv file.
